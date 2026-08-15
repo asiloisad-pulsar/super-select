@@ -12,7 +12,7 @@ Text selection helpers and slash normalization commands.
 
 ## Installation
 
-To install `super-select` search for [super-select](https://web.pulsar-edit.dev/packages/super-select) in the Install pane of the Pulsar settings or run `ppm install super-select`. Alternatively, you can run `ppm install asiloisad/pulsar-super-select` to install a package directly from the GitHub repository.
+To install `super-select` search for [super-select](https://web.pulsar-edit.dev/packages/super-select) in the Install pane of the Pulsar settings or run `ppm install super-select`. Alternatively, you can run `ppm install asiloisad-pulsar/super-select` to install a package directly from the GitHub repository.
 
 ## Commands
 
