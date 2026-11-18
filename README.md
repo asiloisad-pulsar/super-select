@@ -2,6 +2,9 @@
 
 Text selection helpers and slash normalization commands.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [super-select](https://github.com/lumine-code/super-select).
+
 ## Features
 
 - **String selection**: Select text inside quotes.
